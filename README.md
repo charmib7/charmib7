@@ -7,7 +7,7 @@ I'm passionate about Data Science and leveraging Machine Learning to solve real-
 **Data Science**: Pandas, NumPy, Seaborn, Matplotlib\
 **Machine Learning**: PyTorch, Yolo, Scikit-learn\
 **Cloud Infra/Web Dev**: HTML, CSS, JavaScript, FastAPI, RestAPI, Microsoft Azure\
-**BaaS**: Supabase, Firebase, Cloud Firestore\
+**BaaS**: Supabase, Firebase, Cloud Firestore
 
 #### Currently working on...
 Designing overlay pipelines to generate synthetic data for computer vision model training (Robosub)
