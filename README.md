@@ -13,7 +13,7 @@ I'm passionate about Data Science and leveraging Machine Learning to solve real-
 Study hub designed to boost your concentration and maintain healthy studying habits.
 
 #### Check out my past projects:
-Resume Tailor: [charmib7.github.io/resume_tailor](https://www.charmib7.github.io/resume_tailor/)
+Resume Tailor: [charmib7.github.io/resume_tailor](charmib7.github.io/resume_tailor/)
 
 #### Connect with me 🐙
 Linkedin: [linkedin.com/in/charmibuddaluru](https://www.linkedin.com/in/charmibuddaluru/)
