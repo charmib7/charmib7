@@ -11,6 +11,7 @@ I'm passionate about Data Science and leveraging Machine Learning to solve real-
 
 #### Currently working on...
 Study hub designed to boost your concentration and maintain healthy studying habits.
+[Repo here, you can install it yourself!](github.com/charmib7/FocusKiwi/)
 
 #### Check out my past projects:
 Resume Tailor: [charmib7.github.io/resume_tailor](charmib7.github.io/resume_tailor/)
