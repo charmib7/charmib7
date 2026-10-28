@@ -10,8 +10,9 @@ I'm passionate about Data Science and leveraging Machine Learning to solve real-
 **BaaS**: Supabase, Firebase, Cloud Firestore
 
 #### Currently working on...
-Study hub designed to boost your concentration and maintain healthy studying habits.
-[Repo here, you can install it yourself!](github.com/charmib7/FocusKiwi/)
+Study hub designed to boost your concentration and maintain healthy studying habits.\
+[Repo here!](https://github.com/charmib7/FocusKiwi) You can install it yourself!\
+Want to do further testing before I remove the "End Session" option, as well as limit page reloads to only blocked tabs and/or add a warning before tab gets reloaded.
 
 #### Check out my past projects:
 Resume Tailor: [charmib7.github.io/resume_tailor](charmib7.github.io/resume_tailor/)
