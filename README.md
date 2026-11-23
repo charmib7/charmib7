@@ -19,3 +19,6 @@ Resume Tailor: [charmib7.github.io/resume_tailor](charmib7.github.io/resume_tail
 
 #### Connect with me 🐙
 Linkedin: [linkedin.com/in/charmibuddaluru](https://www.linkedin.com/in/charmibuddaluru/)
+
+#### Check out my personal website 🤗
+[Charmi's Corner](https://my-portfolio-plum-nine-20.vercel.app/)
